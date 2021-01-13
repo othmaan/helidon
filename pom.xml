@@ -135,7 +135,7 @@
         <version.lib.microprofile-metrics-api>1.1</version.lib.microprofile-metrics-api>
         <version.lib.microprofile-fault-tolerance-api>1.0</version.lib.microprofile-fault-tolerance-api>
         <version.lib.mockito>2.15.0</version.lib.mockito>
-        <version.lib.mysql-connector-java>8.0.11</version.lib.mysql-connector-java>
+        <version.lib.mysql-connector-java>8.0.16</version.lib.mysql-connector-java>
         <version.lib.netty>4.1.22.Final</version.lib.netty>
         <version.lib.oci-java-sdk-objectstorage>1.2.44</version.lib.oci-java-sdk-objectstorage>
         <version.lib.ojdbc8>12.2.0.1</version.lib.ojdbc8>
